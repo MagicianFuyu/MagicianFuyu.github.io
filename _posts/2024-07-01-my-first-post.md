@@ -12,6 +12,7 @@ math: true
 mermaid: true
 toc: true
 comments: false
-description: Short summary of the post.
+description: Short summary of the post 总结一下（测试中文）.
 ---
 Hello World!!!
+你们好！！！
