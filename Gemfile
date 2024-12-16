@@ -4,6 +4,7 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.0", ">= 7.0.1"
 gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jemoji', '~> 0.13.0'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo'
